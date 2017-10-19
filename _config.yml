@@ -1,15 +1,15 @@
 # Site settings
-title: Amalgam of Random Things
+title: Test test test
 header-img: img/home-bg.jpg
-email: felancarlogarcia@gmail..com
-copyright_name: Felan Carlo Garcia
-description: "A Blog about my Data Science and IoT ramblings"
-baseurl: "https://cadrev.github.io"
-url: "https://cadrev.github.io"
-twitter_username: cadrev
-github_username:  cadrev
-facebook_username:  felan.garcia
-email_username:  felancarlogarcia@gmail.com
+email: genevieve_ngo@yahoo.com
+copyright_name: Genevieve Ngo
+description: "A test website, for now :)"
+baseurl: "https://genevievengo.github.io"
+url: "https://genevievengo.github.io"
+#twitter_username: 
+github_username:  genevievengo
+facebook_username:  genevievecngo
+email_username:  genevieve_ngo@yahoo.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
